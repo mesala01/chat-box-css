@@ -1,2 +1,3 @@
 # chat-box-css
-Created with CodeSandbox
+
+This code creates a simple chat UI using simple CSS and Flexbox.
